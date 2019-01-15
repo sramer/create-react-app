@@ -17,6 +17,10 @@ You can find the companion GitHub repository [here](https://github.com/fullstack
 Check out [this tutorial](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/).
 You can find the companion GitHub repository [here](https://github.com/fullstackreact/food-lookup-demo-rails).
 
+## Django
+Check out [this tutorial](https://wsvincent.com/django-rest-framework-react-tutorial/).
+You can find the companion GitHub respository [here](https://github.com/wsvincent/django-rest-framework-react-tutorial).
+
 ## API Platform (PHP and Symfony)
 
 [API Platform](https://api-platform.com) is a framework designed to build API-driven projects.
